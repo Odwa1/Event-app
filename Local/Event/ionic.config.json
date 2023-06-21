@@ -1,0 +1,8 @@
+{
+  "name": "Event",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
